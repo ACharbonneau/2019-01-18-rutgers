@@ -92,9 +92,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <strong>Where:</strong>
   {{page.address}}.
   Get directions with
-  <a href="//www.openstreetmap.org/?mlat=40.523135&mlon=-74.467520&zoom=16">OpenStreetMap</a>
+  <a href="//www.openstreetmap.org/?mlat=40.523771&mlon=-74.468412&zoom=16">OpenStreetMap</a>
   or
-  <a href="//maps.google.com/maps?q=40.523135,-74.467520">Google Maps</a>.
+  <a href="//maps.google.com/maps?q=40.523771,-74.468412">Google Maps</a>.
 </p>
 {% endif %}
 
