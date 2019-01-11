@@ -405,9 +405,37 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       </p>
     </div>
     <div class="col-md-4">
-      <h4 id="git-macosx">macOS</h4>
+      <h4 id="putty-macosx">macOS</h4>
       <p>
         This is not necessary for MacOS
+      </p>
+  </div>
+    <div class="col-md-4">
+      <h4 id="putty-linux">Linux</h4>
+      <p>
+        This is not necessary for Linux
+      </p>
+  </div>
+  </div>
+ </div>
+ 
+<div id="xwindow">
+  <h3>X-Windows Forwarding</h3>
+  <p>
+    Nothing in this section is needed, but might make some if the steps easier or more pleasant. 
+  </p>
+  
+  <div class="row">
+    <div class="col-md-4">
+      <h4 id="xwin-windows">Windows</h4>
+      <p>
+        <strong>MobaXterm</strong> is a program that is a terminal for Windows, and includes an ssh client. You can download a windows installer  <a href="https://mobaxterm.mobatek.net/download-home-edition.html">here</a> (the green button).
+      </p>
+    </div>
+    <div class="col-md-4">
+      <h4 id="xwin-macosx">macOS</h4>
+      <p>
+      XQuartz is an X Window terminal for mac. You can download a dmg <a href="https://www.xquartz.org/">here</a>. Depending on your setup, you may also need to install Xcode, available <a href="https://developer.apple.com/xcode/">here</a>, or through the app store.
       </p>
   </div>
     <div class="col-md-4">
