@@ -390,6 +390,36 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </div>
 </div> {% comment %} End of 'shell' section. {% endcomment %}
 
+
+<div id="putty">
+  <h3>Putty</h3>
+  <p>
+    Putty is a means of connecting to remote computers.
+  </p>
+  
+  <div class="row">
+    <div class="col-md-4">
+      <h4 id="putty-windows">Windows</h4>
+      <p>
+          You can download a Windows installer for Putty <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">here</a>.
+      </p>
+    </div>
+    <div class="col-md-4">
+      <h4 id="git-macosx">macOS</h4>
+      <p>
+        This is not necessary for MacOS
+      </p>
+  </div>
+    <div class="col-md-4">
+      <h4 id="git-linux">Linux</h4>
+      <p>
+        This is not necessary for Linux
+      </p>
+  </div>
+  </div>
+ </div>
+ 
+
 <!--
 <div id="git"> {% comment %} Start of 'Git' section. {% endcomment %}
   <h3>Git</h3>
