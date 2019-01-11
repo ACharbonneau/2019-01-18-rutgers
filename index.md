@@ -390,6 +390,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </div>
 </div> {% comment %} End of 'shell' section. {% endcomment %}
 
+<!--
 <div id="git"> {% comment %} Start of 'Git' section. {% endcomment %}
   <h3>Git</h3>
   <p>
@@ -447,6 +448,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </div>
 </div> {% comment %} End of 'Git' section. {% endcomment %}
 
+-->
+<!--
 <div id="editor"> {% comment %} Start of 'editor' section. {% endcomment %}
   <h3>Text Editor</h3>
 
@@ -506,7 +509,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </div>
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
-
+-->
+<!--
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
            the workshop will teach Python using something other than
            the Jupyter notebook.
@@ -744,6 +748,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
+-->
+
+<!--
 {% comment %}
 <div id="vm">
   <h3>Virtual Machine</h3>
@@ -769,3 +776,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </ol>
 </div>
 {% endcomment %}
+
+
+-->
+
+
