@@ -422,7 +422,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <div id="xwindow">
   <h3>X-Windows Forwarding</h3>
   <p>
-    Nothing in this section is needed, but might make some if the steps easier or more pleasant. 
+    Nothing in this section is needed, but might make some of the steps easier or more pleasant. 
   </p>
   
   <div class="row">
